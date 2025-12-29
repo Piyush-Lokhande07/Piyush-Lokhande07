@@ -56,7 +56,6 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br><b>C++</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><b>Python</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /><br><b>JavaScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br><b>SQL</b></td>
 </tr>
 </table>
 
