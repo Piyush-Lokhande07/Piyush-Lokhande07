@@ -3,9 +3,9 @@
   “Don’t talk. Show me the code.”
 </h1>
 
-<p align="right">
-  <b>~ Linus Torvalds</b>
-</p>
+<h3 align="right">
+  ~ Linus Torvalds
+</h3>
 
 <!-- ===================== TOP SECTION (2 COLUMNS) ===================== -->
 <table>
