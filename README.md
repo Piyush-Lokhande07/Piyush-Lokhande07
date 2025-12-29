@@ -83,14 +83,6 @@
 </tr>
 </table>
 
-<h3 align="center">Databases</h3>
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br><b>MongoDB</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br><b>PostgreSQL</b></td>
-</tr>
-</table>
-
 </td>
 
 <!-- ===================== RIGHT COLUMN ===================== -->
@@ -98,19 +90,19 @@
 
 <h3 align="center">Tools / IDEs</h3>
 
-<!-- FEDORA (STANDALONE, EMPHASIZED) -->
+<!-- FEDORA -->
 <p align="center">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png"
     width="120"
     alt="Fedora Linux"
   /><br>
-  <b>Linux (Fedora) </b>
+  <b>Linux (Fedora)</b>
 </p>
 
 <br>
 
-<!-- VS CODE + GIT -->
+<!-- VS CODE + NEOVIM + GIT -->
 <table align="center">
 <tr>
 <td align="center">
@@ -132,13 +124,25 @@
 
 
 
+<!-- DATABASES (MOVED HERE) -->
+<h3 align="center">Databases</h3>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" /><br>
+  <b>MongoDB</b>
 </td>
-
-
-
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" /><br>
+  <b>PostgreSQL</b>
+</td>
 </tr>
 </table>
 
+</td>
+
+</tr>
+</table>
 
 ---
 
