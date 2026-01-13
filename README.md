@@ -1,11 +1,3 @@
-<!-- ===================== CENTER QUOTE ===================== -->
-<h1 align="center">
-  “Don’t talk. Show me the code.”
-</h1>
-
-<h3 align="right">
-  ~ Linus Torvalds
-</h3>
 
 <!-- ===================== TOP SECTION (2 COLUMNS) ===================== -->
 <table>
@@ -18,10 +10,11 @@
 </h3>
 
 <p>
-  🎓 <b>B.Tech, Computer Science & Engineering</b><br>
-  <br>
-  🏫 <b>National Institute of Technology, Raipur</b>
+  🎓 <b>B.Tech Student</b> in <b>Computer Science & Engineering</b><br><br>
+  🏫 <b>National Institute of Technology, Raipur</b><br><br>
+  📍 <b>Maharashtra, India</b>
 </p>
+
 
 
 
