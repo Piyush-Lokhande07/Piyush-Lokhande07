@@ -46,10 +46,24 @@
 <h3 align="center">Languages</h3>
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br><b>C++</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" /><br><b>JavaScript</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=go" /><br>
+    <b>Go (Golang)</b>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=cpp" /><br>
+    <b>C++</b>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=python" /><br>
+    <b>Python</b>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=javascript" /><br>
+    <b>JavaScript</b>
+  </td>
 </tr>
+
 </table>
 
 <h3 align="center">Frontend</h3>
